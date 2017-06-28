@@ -1,0 +1,23 @@
+.header {
+  background-color: blue;
+}
+
+.footer {
+  background-color: green;
+}
+
+.left-side-bar{
+background-color: yellow
+}
+
+.left-side-bar .title{
+  color: pink
+}
+
+.left-side-bar__title{
+  color: orange
+}
+
+.body{
+  background-color: red
+}

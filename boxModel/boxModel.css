@@ -1,0 +1,22 @@
+.box{
+  width: 100px;
+  padding: 10px;
+  border: solid black 1px;
+  margin: 20px;
+}
+
+.box3{
+  width: 100px;
+  padding: 10px;
+  border: solid black 10px;
+}
+
+.outer-box{
+  padding: 10px;
+  border: solid black 1px;
+  margin: 50px;
+}
+
+body {
+  padding: 5px
+}
